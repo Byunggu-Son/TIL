@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=90&section=header&text=TIL(TodayILearned)&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=90&section=header&text=TIL(Today++I+Learned)&fontSize=70)
 ### 그날 그날 모든 활동들을 정리
 #
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -37,4 +37,6 @@
 <li> Computer Vision </li>
 <li> Face API </li>
 <li> Custom Vision </li>
+<li> Bot Services </li>
+<li> OCR </li>
 </ul>
