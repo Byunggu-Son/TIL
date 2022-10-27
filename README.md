@@ -28,6 +28,8 @@
 <li> gtts, playsound </li>
 <li> qrcode </li>
 <li> Numpy </li>
+<li> Machine Learning </li>
+
 </ul>
 
 # 
