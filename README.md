@@ -5,3 +5,4 @@
 <li>22-11-15 MS Certified : Ai-900 & Dp-900 </li>
 <li>22-11-16 MS Certified : Dp-900</li>
 <li>22-11-17 MS Certified : Dp-900 & Power BI & ChatBot</li>
+<li>22-11-17 Career Mentoring </li>
