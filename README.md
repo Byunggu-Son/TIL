@@ -7,3 +7,4 @@
 <li>22-11-17 : MS Certified : Dp-900 & Power BI & ChatBot</li>
 <li>22-11-18 : Career Mentoring </li>
 <li>22-11-19 :Big Data Analysis license </li>
+<li>22-11-20 :Big Data Analysis license </li>
