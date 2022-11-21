@@ -8,3 +8,5 @@
 <li>22-11-18 : Career Mentoring </li>
 <li>22-11-19 :Big Data Analysis license </li>
 <li>22-11-20 :Big Data Analysis license </li>
+<li>22-11-21 :Linux basic, NLP Tokenizer & Transformer </li>
+
