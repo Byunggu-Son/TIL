@@ -12,3 +12,4 @@
 <li>22-11-22 :Python basic review, Visualization, Statistic </li>
 <li>22-11-23 :Statistical Data Analysis </li>
 <li>22-11-24 :Statistical Data Analysis </li>
+<li>22-11-25 : Data preprocessing, Probability Distribution </li>
