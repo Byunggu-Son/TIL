@@ -14,3 +14,4 @@
 <li>22-11-24 :Statistical Data Analysis </li>
 <li>22-11-25 : Data preprocessing, Probability Distribution </li>
 <li>22-11-26 :Big Data Analysis license </li>
+<li>22-11-27 :Big Data Analysis license </li>
