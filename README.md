@@ -16,3 +16,5 @@
 <li>22-11-26 :Big Data Analysis license </li>
 <li>22-11-27 :Big Data Analysis license </li>
 <li>22-11-28 : Data Probability Distribution </li>
+<li>22-11-29 : Data Probability Distribution </li>
+
