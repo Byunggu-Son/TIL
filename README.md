@@ -19,3 +19,4 @@
 <li>22-11-29 : Data Probability Distribution </li>
 <li>22-11-30 : Data Probability Distribution, NLP, Crawling & Folium </li>
 <li>22-12-01 : Neural Network </li>
+<li>22-12-02 : Logistic Regression, NLP </li>
