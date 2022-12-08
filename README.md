@@ -21,5 +21,6 @@
 <li>22-12-01 : Neural Network </li>
 <li>22-12-02 : Logistic Regression, NLP </li>
 <li>22-12-05 : Text Preprocessing, NLP </li>
-<li>22-12-05 : Image Preprocessing, OpenCV </li>
-<li>22-12-05 : Image Preprocessing, OpenCV </li>
+<li>22-12-06 : Image Preprocessing, OpenCV </li>
+<li>22-12-07 : Image Preprocessing, OpenCV </li>
+<li>22-12-07 : Image Preprocessing, OpenCV, pydicom </li>
