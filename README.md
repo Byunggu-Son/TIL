@@ -24,3 +24,5 @@
 <li>22-12-06 : Image Preprocessing, OpenCV </li>
 <li>22-12-07 : Image Preprocessing, OpenCV </li>
 <li>22-12-07 : Image Preprocessing, OpenCV, pydicom </li>
+<li>22-12-07 : Image Preprocessing, OpenCV </li>
+<li>22-12-07 : Image Preprocessing, OpenCV </li>
