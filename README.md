@@ -25,3 +25,5 @@
 <li>22-12-07 : Image Preprocessing, OpenCV, pydicom </li>
 <li>22-12-08 : Image Preprocessing, OpenCV </li>
 <li>22-12-09 : Image Preprocessing,OpenCV </li>
+
+<li>23-01-06 : Team Project - Image Classification(rock scissors paper, webcam test) </li>
