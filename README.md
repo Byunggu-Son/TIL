@@ -27,3 +27,4 @@
 <li>22-12-09 : Image Preprocessing,OpenCV </li>
 
 <li>23-01-06 : Team Project - Image Classification(rock scissors paper, webcam test) </li>
+<li>23-01-09 : Image Classification(Butterflies ) </li>
