@@ -29,3 +29,5 @@
 <li>23-01-06 : Team Project - Image Classification(rock scissors paper, webcam test) </li>
 <li>23-01-09 : Image Classification(Butterflies ) </li>
 <li>23-01-10 : Team Project </li>
+<li>23-01-11 : Team Project </li>
+<li>23-01-12 : Team Project </li>
