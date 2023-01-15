@@ -31,4 +31,4 @@
 <li>23-01-10 : Team Project </li>
 <li>23-01-11 : Team Project </li>
 <li>23-01-12 : Team Project </li>
-<li>23-01-13 : MIni Project </li>
+<li>23-01-13 : MIni  Project </li>
