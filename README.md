@@ -34,4 +34,4 @@
 <li>23-01-13 : MIni  Project </li>
 <li>23-01-16 : MIni  Project </li>
 <li>23-01-17 : Career Mentoring </li>
-<li>23-01-18 : NLP  </li>
+<li>23-01-18 : NLP </li>
