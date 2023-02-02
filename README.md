@@ -35,3 +35,6 @@
 <li>23-01-16 : MIni  Project </li>
 <li>23-01-17 : Career Mentoring </li>
 <li>23-01-18 : NLP </li>
+<li>23-02-01 : Team Project - parkdataset object detection - 1 </li>
+<li>23-02-02 : Team Project - parkdataset object detection - 2 </li>
+<li>23-02-03 : Team Project - parkdataset object detection - 3 </li>
