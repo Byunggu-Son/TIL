@@ -39,5 +39,5 @@
 <li>23-02-02 : Team Project - parkdataset object detection - 2 </li>
 <li>23-02-03 : Team Project - parkdataset object detection - 3  </li>
 <li>23-02-06 : Team Project Study  </li>
-<li>23-02-06 : Team Project Study  </li>
-<li>23-02-06 : Team Project Study  </li>
+<li>23-02-07 : Team Project Study  </li>
+<li>23-02-08 : Team Project Study  </li>
