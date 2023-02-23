@@ -46,4 +46,4 @@
 <li>23-02-15 : Team Project Study </li>
 <li>23-02-16 : Team Project Study </li>
 <li>23-02-17 : Career Mentoring </li>
-<li>23-02-18 : Townhall Meeting </li>
+<li>23-02-18 : Townhall Meeting  </li>
