@@ -48,4 +48,4 @@
 <li>23-02-17 : Career Mentoring </li>
 <li>23-02-18 : Townhall Meeting  </li>
 <li>23-03-06 : Team Project - final </li>
-<li>23-03-16 : Team Project -  final </li>
+<li>23-03-16 : Team Project - final </li>
