@@ -50,4 +50,4 @@
 <li>23-03-06 : Team Project - final </li>
 <li>23-03-16 : Team Project - final </li>
 <li>23-04-12 : Coding Test Study </li>
-
+<li>23-04-12 : Coding Test Study & CS Study </li>
